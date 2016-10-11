@@ -2,7 +2,7 @@
 //  NavigationControllerDelegate.swift
 //  Table
 //
-//  Created by Sadhana on 12/10/15.
+//  Created by Aditya on 12/10/15.
 //  Copyright © 2015 VinCorp. All rights reserved.
 //
 
