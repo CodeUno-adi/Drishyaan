@@ -2,7 +2,7 @@
 //  CircleTransitionAnimator.swift
 //  CircleTransition
 //
-//  Created by Rounak Jain on 23/10/14.
+//  Created by Aditya on 12/10/2015.
 //  Copyright (c) 2014 Rounak Jain. All rights reserved.
 //
 
